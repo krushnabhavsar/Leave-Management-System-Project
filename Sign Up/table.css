@@ -1,0 +1,72 @@
+body
+{
+	background-image:url("../5.jpg");
+	background-attachment: fixed;
+	background-size: 100%;
+	background-position:center;
+	b
+
+}
+
+
+
+table{
+	text-align:center;
+margin-top: 125px;
+margin-left: 350px;
+width: auto;
+}
+th,td
+{
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size:19px;
+	color: #000000;
+	text-align:center;
+}
+
+form fieldset input[type="submit"]:hover {background-color: #333333}
+
+form fieldset input[type="submit"] {
+background-color: #8c8c8c;
+border: none;
+border-radius: 3px;
+font-size:16px;
+color: #ffffff;
+letter-spacing: 2px;
+cursor: pointer;
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+height: 50px;
+width: 280px;
+margin-left:500px;
+margin-top:10px;
+margin-bottom:50px;
+}
+
+form fieldset input[list="Class"],input[list="Branch"],input[list="Hostel"]
+{
+	border: none;
+border-radius: 3px;
+color: #5a5656;
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-size: 16px;
+height: 50px;
+outline: none;
+padding: 0px 10px;
+width: 280px;
+margin: 10px 0px 10px 50px;
+	
+}
+
+form fieldset input[type="text"] ,input[type="password"],input[type="number"] {
+border: none;
+border-radius: 3px;
+color: #5a5656;
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-size: 16px;
+height: 50px;
+outline: none;
+padding: 0px 10px;
+width: 280px;
+margin: 10px 0px 10px 50px;
+
+}

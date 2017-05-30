@@ -1,0 +1,488 @@
+[02-Oct-2016 22:45:22 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\tj\Admin\LeaveStatus\viewleaves.php on line 56
+[03-Oct-2016 14:42:04 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:04 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:05 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:05 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:05 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:05 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:06 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:06 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:06 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:06 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:06 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:06 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:07 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:07 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:07 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:07 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:07 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:07 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:07 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:07 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:08 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:08 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:08 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:08 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:08 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:08 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:09 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:09 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:09 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:09 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:09 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:09 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:10 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:10 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:10 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:10 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:10 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:10 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:10 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:10 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:11 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 14:42:11 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Student\entryform.php on line 2
+[03-Oct-2016 17:17:34 Europe/Berlin] PHP Notice:  Undefined index: _id in C:\xampp\htdocs\Project\Student\header.php on line 3
+[03-Oct-2016 17:18:26 Europe/Berlin] PHP Notice:  Undefined index: _id in C:\xampp\htdocs\Project\Student\header.php on line 3
+[03-Oct-2016 17:18:26 Europe/Berlin] PHP Notice:  Undefined index: _id in C:\xampp\htdocs\Project\Student\home.php on line 4
+[03-Oct-2016 17:18:26 Europe/Berlin] PHP Notice:  Undefined index: _id in C:\xampp\htdocs\Project\Student\header.php on line 3
+[03-Oct-2016 17:18:26 Europe/Berlin] PHP Notice:  Undefined index: _id in C:\xampp\htdocs\Project\Student\home.php on line 4
+[03-Oct-2016 17:18:27 Europe/Berlin] PHP Notice:  Undefined index: _id in C:\xampp\htdocs\Project\Student\header.php on line 3
+[03-Oct-2016 17:18:27 Europe/Berlin] PHP Notice:  Undefined index: _id in C:\xampp\htdocs\Project\Student\home.php on line 4
+[04-Oct-2016 16:12:01 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 17
+[04-Oct-2016 16:16:43 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 17
+[04-Oct-2016 16:16:44 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 17
+[04-Oct-2016 16:19:14 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 17
+[04-Oct-2016 16:19:14 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 17
+[04-Oct-2016 16:23:11 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:23:11 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:24:39 Europe/Berlin] PHP Notice:  Undefined variable: sname in C:\xampp\htdocs\Project\Student\s_home.php on line 16
+[04-Oct-2016 16:25:55 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:25:56 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:25:56 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:25:57 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:26:37 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:26:38 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:27:06 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:27:07 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:27:07 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:27:28 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:27:29 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:27:46 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 23
+[04-Oct-2016 16:30:02 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 16
+[04-Oct-2016 16:30:29 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 16
+[04-Oct-2016 16:30:29 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 16
+[04-Oct-2016 16:30:30 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 16
+[04-Oct-2016 16:31:02 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 16
+[04-Oct-2016 16:31:03 Europe/Berlin] PHP Fatal error:  Class 'MongoDB\Client' not found in C:\xampp\htdocs\Project\Student\s_session.php on line 16
+[04-Oct-2016 16:36:54 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 11
+[04-Oct-2016 16:36:54 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 12
+[04-Oct-2016 16:41:28 Europe/Berlin] PHP Catchable fatal error:  Object of class MongoDB\Model\BSONDocument could not be converted to string in C:\xampp\htdocs\Project\Student\s_session.php on line 28
+[04-Oct-2016 16:41:29 Europe/Berlin] PHP Catchable fatal error:  Object of class MongoDB\Model\BSONDocument could not be converted to string in C:\xampp\htdocs\Project\Student\s_session.php on line 28
+[04-Oct-2016 16:41:37 Europe/Berlin] PHP Catchable fatal error:  Object of class MongoDB\Model\BSONDocument could not be converted to string in C:\xampp\htdocs\Project\Student\s_session.php on line 28
+[04-Oct-2016 16:54:36 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 59
+[04-Oct-2016 16:54:36 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 59
+[04-Oct-2016 16:56:07 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 16:56:07 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 16:58:53 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 16:58:53 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 17:00:31 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(28): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:00:42 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(28): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:02:55 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:04:43 Europe/Berlin] PHP Parse error:  syntax error, unexpected '*' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 36
+[04-Oct-2016 17:06:50 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:08:53 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:09:50 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:11:03 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 17:11:03 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 17:11:34 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:15:33 Europe/Berlin] PHP Notice:  Undefined variable: Reg in C:\xampp\htdocs\Project\Student\s_addleave.php on line 18
+[04-Oct-2016 17:15:33 Europe/Berlin] PHP Notice:  Undefined variable: Name in C:\xampp\htdocs\Project\Student\s_addleave.php on line 19
+[04-Oct-2016 17:16:58 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\Project\Student\s_session.php on line 28
+[04-Oct-2016 17:16:59 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\Project\Student\s_session.php on line 28
+[04-Oct-2016 17:17:00 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\Project\Student\s_session.php on line 28
+[04-Oct-2016 17:17:00 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\Project\Student\s_session.php on line 28
+[04-Oct-2016 17:17:00 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\Project\Student\s_session.php on line 28
+[04-Oct-2016 17:17:00 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\Project\Student\s_session.php on line 28
+[04-Oct-2016 17:17:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\Project\Student\s_session.php on line 28
+[04-Oct-2016 17:17:08 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\Project\Student\s_session.php on line 28
+[04-Oct-2016 17:17:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\Project\Student\s_session.php on line 28
+[04-Oct-2016 17:17:55 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:18:22 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:20:23 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:21:23 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 17:21:23 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 17:21:23 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 17:28:15 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:28:49 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:29:39 Europe/Berlin] PHP Notice:  Undefined variable: Reg in C:\xampp\htdocs\Project\Student\s_addleave.php on line 18
+[04-Oct-2016 17:29:39 Europe/Berlin] PHP Notice:  Undefined variable: Name in C:\xampp\htdocs\Project\Student\s_addleave.php on line 19
+[04-Oct-2016 17:29:39 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : null }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:32:07 Europe/Berlin] PHP Notice:  Undefined variable: Reg in C:\xampp\htdocs\Project\Student\s_addleave.php on line 18
+[04-Oct-2016 17:32:07 Europe/Berlin] PHP Notice:  Undefined variable: Name in C:\xampp\htdocs\Project\Student\s_addleave.php on line 19
+[04-Oct-2016 17:32:07 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : null }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:32:55 Europe/Berlin] PHP Notice:  Undefined variable: Reg in C:\xampp\htdocs\Project\Student\s_addleave.php on line 18
+[04-Oct-2016 17:32:55 Europe/Berlin] PHP Notice:  Undefined variable: Name in C:\xampp\htdocs\Project\Student\s_addleave.php on line 19
+[04-Oct-2016 17:32:55 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : null }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:34:35 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 17:34:35 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 17:34:35 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "8" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(28): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:34:46 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 17:34:46 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 17:34:46 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "8" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(28): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:37:32 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 17:37:32 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 17:37:32 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "8" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(26): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:40:58 Europe/Berlin] PHP Notice:  Undefined variable: C_leaves in C:\xampp\htdocs\Project\Student\s_addleave.php on line 18
+[04-Oct-2016 17:40:58 Europe/Berlin] PHP Fatal error:  Call to a member function insertOne() on null in C:\xampp\htdocs\Project\Student\s_addleave.php on line 18
+[04-Oct-2016 17:41:47 Europe/Berlin] PHP Notice:  Undefined variable: Reg in C:\xampp\htdocs\Project\Student\s_addleave.php on line 19
+[04-Oct-2016 17:41:47 Europe/Berlin] PHP Notice:  Undefined variable: Name in C:\xampp\htdocs\Project\Student\s_addleave.php on line 20
+[04-Oct-2016 17:41:47 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : null }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:43:55 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 17:43:55 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 17:43:55 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "8" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:44:06 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 17:44:06 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 17:44:06 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "8" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:44:25 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 17:44:25 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 17:44:25 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "8" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:44:30 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 17:44:30 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 17:44:30 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 17:44:30 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 17:44:30 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 17:44:30 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 17:44:30 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 17:45:44 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 17:45:44 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 17:45:44 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "8" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 17:46:23 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 17:46:23 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 17:46:23 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "8" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 18:29:40 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 18:29:40 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 18:29:40 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "8" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 18:35:59 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:35:59 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:35:59 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:35:59 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:35:59 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 18:35:59 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:35:59 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 18:35:59 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:35:59 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 18:36:07 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:36:07 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:36:07 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:36:07 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:36:07 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 18:36:07 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:36:07 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 18:36:07 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:36:07 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 18:36:07 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:36:07 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 18:36:48 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 18:36:48 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 18:36:48 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "8" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 18:38:41 Europe/Berlin] PHP Notice:  Undefined variable: profres in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 18:38:41 Europe/Berlin] PHP Notice:  Undefined variable: profres in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 18:38:41 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : null }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 18:39:12 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 18:39:12 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 18:39:12 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "8" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 18:41:04 Europe/Berlin] PHP Warning:  Illegal string offset '_id' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 9
+[04-Oct-2016 18:41:04 Europe/Berlin] PHP Warning:  Illegal string offset 'Name' in C:\xampp\htdocs\Project\Student\s_addleave.php on line 10
+[04-Oct-2016 18:41:04 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "8" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 18:51:47 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 18:52:19 Europe/Berlin] PHP Notice:  Undefined variable: Reg in C:\xampp\htdocs\Project\Student\s_addleave.php on line 19
+[04-Oct-2016 18:52:19 Europe/Berlin] PHP Notice:  Undefined variable: Name in C:\xampp\htdocs\Project\Student\s_addleave.php on line 20
+[04-Oct-2016 18:52:19 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : null }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 18:53:17 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 18:54:46 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\BulkWriteException' with message 'E11000 duplicate key error collection: Project.Leaves index: _id_ dup key: { : "T1434" }' in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php(86): MongoDB\Driver\Server->executeBulkWrite('Project.Leaves', Object(MongoDB\Driver\BulkWrite), Object(MongoDB\Driver\WriteConcern))
+#1 C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Collection.php(632): MongoDB\Operation\InsertOne->execute(Object(MongoDB\Driver\Server))
+#2 C:\xampp\htdocs\Project\Student\s_addleave.php(27): MongoDB\Collection->insertOne(Array)
+#3 {main}
+  thrown in C:\xampp\htdocs\Project\Student\vendor\mongodb\mongodb\src\Operation\InsertOne.php on line 86
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 18:58:16 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: Name in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 39
+[04-Oct-2016 19:00:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:03:23 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:03:32 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:03:32 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:30:03 Europe/Berlin] PHP Notice:  Undefined variable: yes in C:\xampp\htdocs\Project\Student\s_update.php on line 8
+[04-Oct-2016 19:30:03 Europe/Berlin] PHP Notice:  Undefined variable: yes in C:\xampp\htdocs\Project\Student\s_update.php on line 10
+[04-Oct-2016 19:30:03 Europe/Berlin] PHP Notice:  Undefined index: N_username in C:\xampp\htdocs\Project\Student\s_update.php on line 13
+[04-Oct-2016 19:30:03 Europe/Berlin] PHP Notice:  Undefined index: N_password in C:\xampp\htdocs\Project\Student\s_update.php on line 14
+[04-Oct-2016 19:30:03 Europe/Berlin] PHP Notice:  Undefined index: CN_password in C:\xampp\htdocs\Project\Student\s_update.php on line 15
+[04-Oct-2016 19:35:17 Europe/Berlin] PHP Notice:  Undefined variable: yes in C:\xampp\htdocs\Project\Student\s_update.php on line 8
+[04-Oct-2016 19:35:17 Europe/Berlin] PHP Notice:  Undefined variable: yes in C:\xampp\htdocs\Project\Student\s_update.php on line 10
+[04-Oct-2016 19:39:22 Europe/Berlin] PHP Notice:  Undefined variable: yes in C:\xampp\htdocs\Project\Student\s_update.php on line 8
+[04-Oct-2016 19:39:22 Europe/Berlin] PHP Notice:  Undefined variable: yes in C:\xampp\htdocs\Project\Student\s_update.php on line 10
+[04-Oct-2016 19:41:31 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:41:31 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:41:31 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 19:47:33 Europe/Berlin] PHP Notice:  Undefined variable: Room in C:\xampp\htdocs\Project\Student\s_viewprofile.php on line 28
+[04-Oct-2016 21:03:08 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 21:03:08 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 21:03:08 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 21:04:44 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 21:04:44 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 21:04:44 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 37
+[04-Oct-2016 21:42:32 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[04-Oct-2016 21:42:32 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[04-Oct-2016 21:42:32 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[04-Oct-2016 21:43:36 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 09:29:32 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 09:29:32 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 09:29:32 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 09:29:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 09:29:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 09:29:43 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:43:33 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:43:33 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:43:33 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:44:05 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:44:05 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:44:05 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:44:10 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:44:10 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:44:10 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:45:41 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:45:41 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:45:41 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:45:45 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:45:45 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 14:45:45 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 16:19:37 Europe/Berlin] PHP Notice:  Undefined variable: counter in C:\xampp\htdocs\Project\Student\s_addleave.php on line 16
+[05-Oct-2016 16:19:37 Europe/Berlin] PHP Fatal error:  Call to a member function findAndModify() on null in C:\xampp\htdocs\Project\Student\s_addleave.php on line 16
+[05-Oct-2016 16:20:44 Europe/Berlin] PHP Notice:  Undefined variable: counter in C:\xampp\htdocs\Project\Student\s_addleave.php on line 16
+[05-Oct-2016 16:20:44 Europe/Berlin] PHP Fatal error:  Call to a member function findAndModify() on null in C:\xampp\htdocs\Project\Student\s_addleave.php on line 16
+[05-Oct-2016 16:21:43 Europe/Berlin] PHP Notice:  Undefined variable: counter in C:\xampp\htdocs\Project\Student\s_addleave.php on line 16
+[05-Oct-2016 16:21:43 Europe/Berlin] PHP Fatal error:  Call to a member function findAndModify() on null in C:\xampp\htdocs\Project\Student\s_addleave.php on line 16
+[05-Oct-2016 16:30:34 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 16:54:07 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 16:54:22 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38
+[05-Oct-2016 16:55:36 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Student\s_viewleaves.php on line 38

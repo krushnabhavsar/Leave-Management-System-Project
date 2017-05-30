@@ -1,0 +1,54 @@
+[03-Oct-2016 11:04:44 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\ConnectionTimeoutException' with message 'No suitable servers found (`serverselectiontryonce` set): [Failed connecting to 'localhost:27017': No connection could be made because the target machine actively refused it.
+]' in C:\xampp\htdocs\Project\Login\vendor\mongodb\mongodb\src\Collection.php:437
+Stack trace:
+#0 C:\xampp\htdocs\Project\Login\vendor\mongodb\mongodb\src\Collection.php(437): MongoDB\Driver\Manager->selectServer(Object(MongoDB\Driver\ReadPreference))
+#1 C:\xampp\htdocs\Project\Login\index1.php(13): MongoDB\Collection->find(Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\Project\Login\vendor\mongodb\mongodb\src\Collection.php on line 437
+[03-Oct-2016 11:27:48 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\Login\index1.php on line 22
+[03-Oct-2016 11:27:48 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\Login\index1.php on line 28
+[03-Oct-2016 14:03:01 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\Login\index1.php on line 26
+[03-Oct-2016 14:03:01 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\Login\index1.php on line 34
+[04-Oct-2016 14:23:14 Europe/Berlin] PHP Fatal error:  Uncaught exception 'MongoDB\Driver\Exception\ConnectionTimeoutException' with message 'No suitable servers found (`serverselectiontryonce` set): [Failed connecting to 'localhost:27017': No connection could be made because the target machine actively refused it.
+]' in C:\xampp\htdocs\Project\vendor\mongodb\mongodb\src\Collection.php:437
+Stack trace:
+#0 C:\xampp\htdocs\Project\vendor\mongodb\mongodb\src\Collection.php(437): MongoDB\Driver\Manager->selectServer(Object(MongoDB\Driver\ReadPreference))
+#1 C:\xampp\htdocs\Project\index1.php(18): MongoDB\Collection->find(Array)
+#2 {main}
+  thrown in C:\xampp\htdocs\Project\vendor\mongodb\mongodb\src\Collection.php on line 437
+[04-Oct-2016 14:27:41 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[04-Oct-2016 14:27:41 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[04-Oct-2016 16:11:18 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[04-Oct-2016 16:11:18 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[05-Oct-2016 17:04:36 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[05-Oct-2016 17:04:36 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[05-Oct-2016 17:41:27 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[05-Oct-2016 17:41:27 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[06-Oct-2016 10:27:41 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[06-Oct-2016 10:27:41 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[06-Oct-2016 21:52:11 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[06-Oct-2016 21:52:11 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[06-Oct-2016 21:52:25 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[06-Oct-2016 21:52:25 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[06-Oct-2016 21:53:38 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[06-Oct-2016 21:53:38 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[06-Oct-2016 22:22:32 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[06-Oct-2016 22:22:32 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[06-Oct-2016 22:23:22 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[06-Oct-2016 22:23:22 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[06-Oct-2016 23:44:22 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[06-Oct-2016 23:44:22 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[07-Oct-2016 00:37:52 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[07-Oct-2016 00:37:52 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[07-Oct-2016 00:38:04 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[07-Oct-2016 00:38:04 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[07-Oct-2016 00:51:12 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[07-Oct-2016 00:51:12 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[07-Oct-2016 04:38:55 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[07-Oct-2016 04:38:55 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[07-Oct-2016 08:09:20 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[07-Oct-2016 08:09:20 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[07-Oct-2016 08:09:43 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[07-Oct-2016 08:09:43 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37
+[07-Oct-2016 08:10:30 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 27
+[07-Oct-2016 08:10:30 Europe/Berlin] PHP Notice:  Undefined variable: storedUsername in C:\xampp\htdocs\Project\index1.php on line 37

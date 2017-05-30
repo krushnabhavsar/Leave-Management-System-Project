@@ -1,0 +1,41 @@
+body
+{
+	background-image: url("5.jpg");
+		background-attachment: fixed;
+	background-size: cover;
+}
+#login {
+margin: 15px auto;
+width: 300px;
+}
+#top {
+	margin:150px;
+}
+form fieldset input[type="submit"]:hover {background-color: #333333}
+form fieldset button[type="button"]:hover {background-color: #333333}
+
+button,form fieldset input[type="submit"] {
+background-color: #8c8c8c;
+border: none;
+border-radius: 3px;
+color: #f2f2f2;
+/*font-weight: bold;*/
+letter-spacing: 2px;
+cursor: pointer;
+font-size:16px;
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+height: 50px;
+width: 280px;
+}
+
+form fieldset input[type="text"], input[type="password"] {
+border: none;
+border-radius: 3px;
+color: #5a5656;
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-size: 16px;
+height: 50px;
+outline: none;
+padding: 0px 10px;
+width: 280px;
+}

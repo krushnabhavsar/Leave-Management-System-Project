@@ -1,0 +1,48 @@
+body
+{
+	background-image: url("surmai.jpg");
+	
+}
+#content{
+margin: 25px auto;
+width: 500px;
+}
+form fieldset input[type="submit"]:hover {background-color: #333333}
+form fieldset button[type="button"]:hover {background-color: #333333}
+
+form fieldset input[type="submit"],input[type="reset"] {
+background-color: #666666;
+border: none;
+border-radius: 3px;
+color: #f2f2f2;
+    font-weight: bold;
+	letter-spacing: 2px;
+cursor: pointer;
+font-size:16px;
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+height: 50px;
+width: 280px;
+margin-left:100px;
+margin-top:10px;
+}
+
+th,select
+{
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color: #000000;
+	margin: 10px 0px 10px 0px;
+}
+
+form fieldset input[type="text"]{
+border: none;
+border-radius: 3px;
+color: #5a5656;
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-size: 16px;
+height: 50px;
+outline: none;
+padding: 0px 10px;
+width: 280px;
+box-sizing: border-box;
+}

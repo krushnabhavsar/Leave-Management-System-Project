@@ -1,0 +1,69 @@
+body
+{
+	background-image:url("surmai.jpg");
+
+}
+
+#create_pass {
+margin: 150px auto;
+width: 500px;
+}
+
+#signup {
+margin: 25px auto;
+width: 500px;
+}
+th,td
+{
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size:19px;
+	color: #ffffff;
+	text-align:center;
+}
+
+form fieldset input[type="submit"]:hover {background-color: #333333}
+
+button,form fieldset input[type="submit"] {
+background-color: #666666;
+border: none;
+border-radius: 3px;
+font-size:16px;
+color: #ffffff;
+font-weight: bold;
+letter-spacing: 2px;
+cursor: pointer;
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+height: 50px;
+width: 280px;
+margin-left:100px;
+margin-top:10px;
+}
+
+form fieldset input[list="Class"],input[list="Branch"],input[list="Hostel"]
+{
+	border: none;
+border-radius: 3px;
+color: #5a5656;
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-size: 16px;
+height: 50px;
+outline: none;
+padding: 0px 10px;
+width: 280px;
+margin: 10px 0px 10px 50px;
+	
+}
+
+form fieldset input[type="text"] ,input[type="password"] {
+border: none;
+border-radius: 3px;
+color: #5a5656;
+font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+font-size: 16px;
+height: 50px;
+outline: none;
+padding: 0px 10px;
+width: 280px;
+margin: 10px 0px 10px 50px;
+
+}

@@ -1,0 +1,108 @@
+[03-Oct-2016 14:02:52 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Project\Admin\Home\home.php on line 8
+[03-Oct-2016 14:03:20 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Project\Admin\Home\home.php on line 8
+[03-Oct-2016 15:56:36 Europe/Berlin] PHP Warning:  require(adminsession.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\logout.php on line 2
+[03-Oct-2016 15:56:36 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'adminsession.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\logout.php on line 2
+[03-Oct-2016 15:57:23 Europe/Berlin] PHP Warning:  require(adminsession.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\logout.php on line 2
+[03-Oct-2016 15:57:23 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'adminsession.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\logout.php on line 2
+[03-Oct-2016 15:57:24 Europe/Berlin] PHP Warning:  require(adminsession.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\logout.php on line 2
+[03-Oct-2016 15:57:24 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'adminsession.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\logout.php on line 2
+[04-Oct-2016 14:26:10 Europe/Berlin] PHP Warning:  require(session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\header.php on line 2
+[04-Oct-2016 14:26:11 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'session.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\header.php on line 2
+[04-Oct-2016 14:27:22 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:27:22 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:27:22 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:27:22 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:27:29 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:27:29 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:27:56 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:27:56 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:57 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:57 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:57 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:57 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:58 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:58 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:58 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:58 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:28:59 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:29:06 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:29:06 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:32:11 Europe/Berlin] PHP Warning:  require(a_header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 14:32:11 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'a_header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\Project\Admin\a_home.php on line 3
+[04-Oct-2016 21:29:05 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 39
+[04-Oct-2016 21:29:05 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 39
+[04-Oct-2016 21:29:05 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 39
+[04-Oct-2016 21:31:15 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:31:15 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:31:15 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:31:35 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:31:35 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:31:35 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:32:24 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:32:24 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:32:24 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:34:59 Europe/Berlin] PHP Parse error:  syntax error, unexpected ':' in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 38
+[04-Oct-2016 21:35:17 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:35:17 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:35:17 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:40:16 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 45
+[04-Oct-2016 21:44:11 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:44:11 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:44:11 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:44:11 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:45:29 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:45:29 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:45:29 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:45:29 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:49:14 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:49:14 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:49:14 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:49:14 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:49:20 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:49:20 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:49:20 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:49:20 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:50:18 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:50:18 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:50:18 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:50:18 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:50:23 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:50:23 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:50:23 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[04-Oct-2016 21:50:23 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[05-Oct-2016 15:07:31 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[05-Oct-2016 15:07:31 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[05-Oct-2016 15:07:31 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[05-Oct-2016 15:07:31 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[05-Oct-2016 15:40:53 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[05-Oct-2016 15:40:53 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[05-Oct-2016 15:40:53 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[05-Oct-2016 15:40:53 Europe/Berlin] PHP Notice:  Undefined index: App_No in C:\xampp\htdocs\Project\Admin\a_viewleaves.php on line 44
+[07-Oct-2016 06:57:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\Project\Admin\a_logout.php on line 19
